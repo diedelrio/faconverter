@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "valoresPredeterminados": {
+    "tipoMovimiento": "ALTA",
+    "nombreCliente": "EMPRESA EJEMPLO SA DE CV",
+    "sucursal": "001",
+    "noEmpleado": "000123",
+    "formaPago": "MENSUAL",
+    "email": "rh@ejemplo.com.mx",
+    "telefono": "5555123456",
+    "calle": "AV. REFORMA 100",
+    "cp": "06600",
+    "estado": "CIUDAD DE MEXICO",
+    "municipio": "CUAUHTEMOC",
+    "colonia": "JUAREZ"
+  }
+}

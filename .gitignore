@@ -1,0 +1,4 @@
+node_modules/
+dist/
+samples/asegurados_grande.xlsx
+*.log
